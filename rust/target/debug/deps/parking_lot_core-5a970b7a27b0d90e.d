@@ -1,0 +1,11 @@
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/rust/target/debug/deps/parking_lot_core-5a970b7a27b0d90e.rmeta: /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/lib.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/parking_lot.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/spinwait.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/thread_parker/mod.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/util.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/word_lock.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/thread_parker/linux.rs
+
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/rust/target/debug/deps/parking_lot_core-5a970b7a27b0d90e.d: /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/lib.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/parking_lot.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/spinwait.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/thread_parker/mod.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/util.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/word_lock.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/thread_parker/linux.rs
+
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/lib.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/parking_lot.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/spinwait.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/thread_parker/mod.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/util.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/word_lock.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.7/src/thread_parker/linux.rs:

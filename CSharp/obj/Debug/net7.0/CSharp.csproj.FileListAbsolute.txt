@@ -1,0 +1,15 @@
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/bin/Debug/net7.0/CSharp
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/bin/Debug/net7.0/CSharp.deps.json
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/bin/Debug/net7.0/CSharp.runtimeconfig.json
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/bin/Debug/net7.0/CSharp.dll
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/bin/Debug/net7.0/CSharp.pdb
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.csproj.AssemblyReference.cache
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.AssemblyInfoInputs.cache
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.AssemblyInfo.cs
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.csproj.CoreCompileInputs.cache
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.dll
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/refint/CSharp.dll
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.pdb
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/CSharp.genruntimeconfig.cache
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/CSharp/obj/Debug/net7.0/ref/CSharp.dll

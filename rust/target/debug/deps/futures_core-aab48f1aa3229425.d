@@ -1,0 +1,11 @@
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/rust/target/debug/deps/futures_core-aab48f1aa3229425.rmeta: /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/lib.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/future.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/stream.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/mod.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/poll.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/__internal/mod.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/__internal/atomic_waker.rs
+
+/mnt/Shared/Files/Coding/Coding-language-battle-royal/rust/target/debug/deps/futures_core-aab48f1aa3229425.d: /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/lib.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/future.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/stream.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/mod.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/poll.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/__internal/mod.rs /home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/__internal/atomic_waker.rs
+
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/lib.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/future.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/stream.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/mod.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/poll.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/__internal/mod.rs:
+/home/pesci/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.27/src/task/__internal/atomic_waker.rs:

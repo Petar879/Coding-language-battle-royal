@@ -1,0 +1,9 @@
+prefix=/mnt/Shared/Files/Coding/Coding-language-battle-royal/rust/target/debug/build/openssl-sys-d18aa17ef30ce039/out/openssl-build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 1.1.1t
+Requires: libssl libcrypto
